@@ -42,7 +42,7 @@ echo "Enter your Port to Indenity way - : "
 
 read port 
 
-echo "Select a Scan - : \n 1 for Aggresive \n 2 for Syn \n 2 for TCP Scan"
+echo "Select a Scan - : \n 1 for Aggresive \n 2 for Syn \n 3 for TCP Scan"
 
 read st
 
